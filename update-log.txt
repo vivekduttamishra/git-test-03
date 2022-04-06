@@ -7,3 +7,7 @@ update#2-resotre
  update#4
 
  * adds file05.txt
+
+ update#5
+
+ * deleted file04.txt
