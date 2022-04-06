@@ -3,3 +3,19 @@ update#3 file03.txt deleted
 product-branch-update 
 update#1
     added product01.txt
+update#2-resotre
+ 
+ * restored back to update#2
+
+member-branch-update#2
+    member01.txt added
+
+ update#4
+
+ * adds file05.txt
+
+ update#5
+
+ * deleted file04.txt
+
+
