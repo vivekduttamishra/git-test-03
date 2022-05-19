@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\binary-search-tree\\bst-v1.js"
+            "program": "${workspaceFolder}\\binary-search-tree\\bst-v5.js"
         }
     ]
 }
